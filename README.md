@@ -1,4 +1,5 @@
 # os211
 Sistem Operasi Genap 2020/2021
 
-[**w01**](https://github.com/fikriadidharma/os211/blob/master/w01.md)
+[**w01**](https://fikriadidharma.github.io/os211/w01.md)
+[**w02**](https://fikriadidharma.github.io/os211/w02.md)
