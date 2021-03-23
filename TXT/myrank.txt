@@ -2,11 +2,16 @@
 # RANK
 
 # Week 01
-ZCZC W01 cornelita
-ZCZC W01 bltszr
-ZCZC W01 basyirasabita
+ZCZC W02 fredypasaud
+ZCZC W02 faustaadp
+ZCZC W02 frz1110
 
 # Week 02
-ZCZC W02 bintangdom
-ZCZC W02 cornelita
-ZCZC W02 basyirasabita
+ZCZC W02 fredypasaud
+ZCZC W02 faustaadp
+ZCZC W02 frsardhf
+
+# Week 02
+ZCZC W02 fredypasaud
+ZCZC W02 ganiirsyadi
+ZCZC W02 fadhilrasendriya
