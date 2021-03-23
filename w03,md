@@ -1,0 +1,26 @@
+---
+permalink : /W03/
+---
+
+# TOP 10 SITES
+
+**1. [Cara menyembunyikan folder dan melihat file tersembunyi](https://www.komando.com/privacy/hide-folders-and-see-hidden-files/782761/)**<br />
+File Attribute menentukan bagaimana perilaku sebuah file atau folder. File attribute menentukan apakah file tersebut visible, modified, atau encrypted. Artikel ini menjelaskan cara menyembunyikan sebuah folder dengan fileAttribute.  <br />
+**2. [Tree Structured Directory](https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line/)**<br />
+Tree structured directory merupakan salah satu structure directory yang cukup umum. Pada web ini dijelaskan commmand line untuk menampilkan tree structure directory pada linux. <br />
+**3. [Disk Partition in Linux](https://www.makeuseof.com/how-to-create-resize-and-delete-linux-partitions-with-cfdisk/)**<br />
+Disk partition merupakan cara untuk membagi memory. Pada website ini dijelaskan tentang disk partition pada linux menggunakan cfdisk.<br />
+**4. [Volume and Bind mounts in Docker](https://medium.com/devops-dudes/docker-volumes-and-bind-mounts-2fb4bd9df09d)**<br />
+Pada laman ini dipaparkan tentang perbedaan volumes dan bind mount pada docker. Konten pada materi ini juga memberikan tutorial melihat bind dan mounts pada docker.<br />
+**5. [How to deal with Union in docker](https://ilearnedhowto.wordpress.com/tag/layered-filesystem/)**<br />
+Layered File System berfungsi untuk mengorganisir files pada sebuah memory. Layered Filesystem sendiri memiliki beberapa jenis. Salah satunya adalah UnionFs yang dijelaskan pada laman ini cara kerjanya.<br />
+**6. [More About Virtual Filesystem on linux](https://unix.stackexchange.com/questions/486810/layered-or-virtual-filesystem-on-linux)**<br />
+ Laman ini menjelaskan lebih lanjut tentang amsalah yang dialami saat menginisiasi virtual filesystem pada linux. Banyak yang memberikan soluasi penggunaan FS lain seperti OverLayFS<br />
+**7. [Directory Implementation using Data Structure](https://padakuu.com/article/93-directory-implementation)**<br />
+Implementasi direktori dapat dilakukan dengan banyak jenis struktur data yang akan menghasilkan implementasi yang berbeda pula.<br />
+**8. [Difference between Local File System and Distributed File System](https://www.geeksforgeeks.org/difference-between-local-file-system-lfs-and-distributed-file-system-dfs/)__<br>
+Laman tersebut menjelaskan definisi LFS dan menunjukkan perbedaannya dengan DFS. Hal tersebut cukup familiar dengan command mount /lfs <br />
+**9. [Future of Page Cache](https://lwn.net/Articles/712467/)**<br />
+Cache merupakan salah satu bentuk teknologi yang terus menerus berkembang, pada website ini dibahas tentang jenis jenis cache dalah satunya adalah unified buffer cache.<br />
+**10. [Absolute vs Relative Path](https://docs.oracle.com/javase/tutorial/essential/io/path.html#:~:text=A%20path%20is%20either%20relative,required%20to%20locate%20the%20file.&text=A%20relative%20path%20needs%20to,foo%20is%20a%20relative%20path.)**<br />
+Pada website ini saya mengetahui perbedaan antara absolute dan relativev path pada filesystem. Selain itu, pada website ini juga dijelaskan mengenai keuntungan dan kekurangan menggunakan keduanya.<br />
