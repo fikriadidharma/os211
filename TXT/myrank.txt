@@ -11,7 +11,12 @@ ZCZC W02 fredypasaud
 ZCZC W02 faustaadp
 ZCZC W02 frsardhf
 
-# Week 02
-ZCZC W02 fredypasaud
-ZCZC W02 ganiirsyadi
-ZCZC W02 fadhilrasendriya
+# Week 03
+ZCZC W03 fredypasaud
+ZCZC W03 ganiirsyadi
+ZCZC W03 fadhilrasendriya
+
+# Week 03
+ZCZC W04 frz1110
+ZCZC W04 fadhilrasendriya
+ZCZC W04 faustaadp
