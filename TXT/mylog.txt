@@ -29,3 +29,20 @@ ZCZC W02 10 L18 Assignment #8
 ZCZC W02 10 L19 Assignment #9
 ZCZC W02 10 L20 Assignment #10
 ZCZC W02 15 L21 Assignment #11
+ZCZC W02 20 L22 Youtube : study
+ZCZC W03 90 L02 ZOOM Related
+ZCZC W03 70 L10 Assignment 
+ZCZC W03 30 L05 GSGS Related
+ZCZC W03 100 L10 Assignment
+ZCZC W03 30 L22 Youtube : Linux
+ZCZC W03 30 L05 GSGS Related
+ZCZC W04 90 L02 ZOOM Related
+ZCZC W04 60 L10 Assignment 
+ZCZC W04 60 L05 GSGS Related
+ZCZC W04 90 L10 Assigmment 
+ZCZC W04 60 L06 Reading References/Books/Documents
+ZCZC W05 110 L02 ZOOM Related
+ZCZC W05 140 L10 Assignment 
+ZCZC W05 70 L22 Youtube : study
+ZCZC W05 40 L06 Reading References/Books/Documents
+ZCZC W05 60 L05 GSGS Related
