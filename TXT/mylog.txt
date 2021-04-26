@@ -46,3 +46,8 @@ ZCZC W05 140 L10 Assignment
 ZCZC W05 70 L22 Youtube : study
 ZCZC W05 40 L06 Reading References/Books/Documents
 ZCZC W05 60 L05 GSGS Related
+ZCZC W06 120 L02 ZOOM Related
+ZCZC W06 90 L06 Reading References/Books/Documents
+ZCZC W06 120 L10 Assignment (General)
+ZCZC W06 70 L05 GSGS Related
+ZCZC W06 120 L10 Assignment (General)
