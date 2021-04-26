@@ -16,7 +16,12 @@ ZCZC W03 fredypasaud
 ZCZC W03 ganiirsyadi
 ZCZC W03 fadhilrasendriya
 
-# Week 03
+# Week 04
 ZCZC W04 frz1110
 ZCZC W04 fadhilrasendriya
 ZCZC W04 faustaadp
+
+# Week 05
+ZCZC W05 fayaadbsa
+ZCZC W05 freezetabs
+ZCZC W05 faustaadp
