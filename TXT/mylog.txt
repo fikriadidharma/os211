@@ -51,3 +51,8 @@ ZCZC W06 90 L06 Reading References/Books/Documents
 ZCZC W06 120 L10 Assignment (General)
 ZCZC W06 70 L05 GSGS Related
 ZCZC W06 120 L10 Assignment (General)
+ZCZC W06 120 L02 ZOOM Related
+ZCZC W07 90 L06 Reading References/Books/Documents
+ZCZC W07 120 L10 Assignment (General)
+ZCZC W07 70 L05 GSGS Related
+ZCZC W07 120 L10 Assignment (General)
