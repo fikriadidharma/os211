@@ -25,3 +25,8 @@ ZCZC W04 faustaadp
 ZCZC W05 fayaadbsa
 ZCZC W05 freezetabs
 ZCZC W05 faustaadp
+
+# Week 05
+ZCZC W06 fayaadbsa
+ZCZC W06 freezetabs
+ZCZC W06 faustaadp
