@@ -9,5 +9,6 @@ Sistem Operasi Genap 2020/2021
 [**w06**](https://fikriadidharma.github.io/os211/W06)<br/>
 [**w07**](https://fikriadidharma.github.io/os211/W07)<br/>
 [**w08**](https://fikriadidharma.github.io/os211/W08)<br/>
+[**w09**](https://fikriadidharma.github.io/os211/W09)<br/>
 [**Log**](https://fikriadidharma.github.io/os211/TXT/mylog.txt)<br/>
 
