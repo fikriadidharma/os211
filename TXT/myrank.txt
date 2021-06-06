@@ -36,8 +36,13 @@ ZCZC W07 freezetabs
 ZCZC W07 ganiirsyadi
 ZCZC W07 fadhilrasendriya
 
-# Week 07
+# Week 08
 ZCZC W08 faustaadp
 ZCZC W08 freezetabs
+ZCZC W08 fayaadbsa
+
+# Week 09
+ZCZC W08 ganiirsyadi
+ZCZC W08 fsardhf
 ZCZC W08 fayaadbsa
 
