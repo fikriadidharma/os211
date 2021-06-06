@@ -26,7 +26,7 @@ ZCZC W05 fayaadbsa
 ZCZC W05 freezetabs
 ZCZC W05 faustaadp
 
-# Week 05
+# Week 06
 ZCZC W06 fayaadbsa
 ZCZC W06 frsardhf
 ZCZC W06 faustaadp
@@ -42,7 +42,7 @@ ZCZC W08 freezetabs
 ZCZC W08 fayaadbsa
 
 # Week 09
-ZCZC W08 ganiirsyadi
-ZCZC W08 fsardhf
-ZCZC W08 fayaadbsa
+ZCZC W09 ganiirsyadi
+ZCZC W09 fsardhf
+ZCZC W09 fayaadbsa
 
